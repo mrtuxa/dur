@@ -1,0 +1,15 @@
+Package: neovim
+Version: 0.10.0
+Architecture: amd64
+Maintainer: Neovim.io
+Installed-Size: 47725
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3)
+Filename: ./nvim-dev.deb
+Size: 17249078
+MD5sum: 372746cdac5db3990d6c8615935f854f
+SHA1: a6f5cae775bfbb2dd91db2438b6e78d9c719a733
+SHA256: 88de4e06f70a396a5cfeacd11d21e3c7afca4fc25a90d8e80e6456e6dda9555f
+Section: devel
+Priority: optional
+Description: Vim-fork focused on extensibility and usability.
+
